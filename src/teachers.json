@@ -1,0 +1,12 @@
+{
+  "teachers": [
+    {
+      "username": "teacher1",
+      "password": "sha256$Q8bzG9Kj$af505a6fd0c18e89def1dd7a096d44934c92c0559a2b9473415d0943729cf50c"
+    },
+    {
+      "username": "teacher2",
+      "password": "sha256$R7ayH8Lk$b2e98c8a5e89def2dd8b197e55934c92c0559a2b9473415d0943729cf50c987d"
+    }
+  ]
+}
